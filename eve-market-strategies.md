@@ -1,5 +1,5 @@
 
-# Preface
+Copied on Sun Feb 18 2018
 
 EVE Online is unique among online games in that the in-game market has significant importance to players, regardless of the game play style they choose to pursue. Whether in high, low or null security, many \(probably all\) players rely on EVE’s markets to buy and equip ships, sell acquired or produced goods, buy supplies needed for various endeavors, and otherwise fill gaps in the set of things needed to pursue various play styles.
 
